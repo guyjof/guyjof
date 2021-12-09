@@ -31,6 +31,10 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
+<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyjof&show_icons=true&locale=en&layout=compact" alt="guyjof" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=guyjof&show_icons=true&locale=en" alt="guyjof" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guyjof" alt="mystreak"/>
+
 [twitter]: https://twitter.com/guyjofre
 [instagram]: https://instagram.com/guyjof
 [linkedin]: https://linkedin.com/in/guyjof
