@@ -35,7 +35,7 @@
 
 <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyjof&show_icons=true&locale=en&layout=compact" alt="guyjof" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=guyjof&show_icons=true&locale=en" alt="guyjof" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyjof" alt="mystreak"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=guyjof" alt="mystreak"/>
 
 [twitter]: https://twitter.com/guyjofre
 [instagram]: https://instagram.com/guyjof
