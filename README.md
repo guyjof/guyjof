@@ -34,7 +34,7 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
 <img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyjof&show_icons=true&locale=en&layout=compact" alt="guyjof" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guyjof&show_icons=true&locale=en" alt="guyjof" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guyjof&show_icons=true&locale=en" alt="guyjof" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guyjof" alt="mystreak"/>
 
 [twitter]: https://twitter.com/guyjofre
